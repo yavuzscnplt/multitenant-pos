@@ -83,8 +83,17 @@ Ara toplam, kalan, fazla ödeme, ikram, hesap bölme gibi para mantığı `Order
 
 ## Ekran görüntüleri
 
-> _Buraya POS, QR menü ve yönetici paneli ekran görüntüleri eklenecek
-> (`docs/screenshots/`)._
+**POS / kasa ekranı** — adisyon, bekleyen siparişler, kategori bazlı menü:
+
+![POS ekranı](docs/screenshots/pos.png)
+
+**Süper admin konsolidasyon panosu** — tüm firmalar/franchise zincirleri, günlük ciro & kâr izleme:
+
+![Süper admin panosu](docs/screenshots/super-admin.png)
+
+| Self-servis QR menü (mobil) | Mutfak / sipariş durumu ekranı |
+|:---:|:---:|
+| ![QR menü](docs/screenshots/qr-menu.png) | ![Mutfak ekranı](docs/screenshots/kitchen-display.png) |
 
 ---
 
